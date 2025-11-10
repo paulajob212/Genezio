@@ -100,7 +100,7 @@
         "parse-gitignore": "^2.0.0",
         "semver": "^7.7.3",
         "tslog": "^4.10.2",
-        "typescript": "^5.7.3",
+        "typescript": "^5.9.3",
         "unique-names-generator": "^4.7.1",
         "uuid": "^11.1.0",
         "whatwg-mimetype": "~4.0.0",

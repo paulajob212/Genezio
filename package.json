@@ -143,7 +143,7 @@
         "@types/uuid": "^10.0.0",
         "@types/whatwg-mimetype": "~3.0.0",
         "@types/which": "^3.0.3",
-        "@typescript-eslint/eslint-plugin": "^8.46.3",
+        "@typescript-eslint/eslint-plugin": "^8.48.0",
         "@typescript-eslint/parser": "^8.46.3",
         "envify": "^4.1.0",
         "eslint": "^9.39.1",

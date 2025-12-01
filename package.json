@@ -105,7 +105,7 @@
         "uuid": "^11.1.0",
         "whatwg-mimetype": "~4.0.0",
         "which": "^6.0.0",
-        "yaml": "^2.8.0",
+        "yaml": "^2.8.2",
         "yaml-transmute": "^0.0.7",
         "zod": "^4.1.13"
     },

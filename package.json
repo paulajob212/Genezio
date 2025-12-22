@@ -81,7 +81,7 @@
         "express": "^4.19.2",
         "fs-extra": "^11.3.2",
         "glob": "^13.0.0",
-        "hash-it": "^7.0.1",
+        "hash-it": "^7.0.2",
         "http-proxy": "^1.18.1",
         "inquirer": "^12.11.0",
         "isomorphic-git": "1.32.1",

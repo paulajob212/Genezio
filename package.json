@@ -90,7 +90,7 @@
         "log-update": "^7.0.1",
         "loglevel-plugin-prefix": "^0.8.4",
         "memfs": "^4.51.1",
-        "mime-types": "^3.0.1",
+        "mime-types": "^3.0.2",
         "mustache": "^4.2.0",
         "node-abort-controller": "^3.1.1",
         "node-cron": "^4.2.1",

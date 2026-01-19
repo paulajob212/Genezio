@@ -107,7 +107,7 @@
         "which": "^6.0.0",
         "yaml": "^2.8.2",
         "yaml-transmute": "^0.0.7",
-        "zod": "^4.2.1"
+        "zod": "^4.3.5"
     },
     "repository": {
         "type": "git",

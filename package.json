@@ -41,7 +41,7 @@
     "author": "Genezio",
     "license": "GPL-3",
     "dependencies": {
-        "@amplitude/analytics-node": "^1.5.35",
+        "@amplitude/analytics-node": "^1.5.45",
         "@aws-sdk/client-cloudformation": "^3.1000.0",
         "@aws-sdk/client-s3": "^3.1004.0",
         "@babel/core": "^7.29.0",

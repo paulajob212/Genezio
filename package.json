@@ -98,7 +98,7 @@
         "openai": "^6.32.0",
         "ora": "^9.3.0",
         "parse-gitignore": "^2.0.0",
-        "semver": "^7.7.3",
+        "semver": "^7.7.4",
         "tslog": "^4.10.2",
         "typescript": "^5.9.3",
         "unique-names-generator": "^4.7.1",

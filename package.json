@@ -54,7 +54,7 @@
         "@genezio/test-interface-component": "^2.4.3",
         "@sentry/node": "^10.42.0",
         "@sentry/profiling-node": "~10.43.0",
-        "@types/adm-zip": "^0.5.6",
+        "@types/adm-zip": "^0.5.8",
         "@webcontainer/env": "^1.1.1",
         "adm-zip": "^0.5.16",
         "archiver": "^7.0.1",
